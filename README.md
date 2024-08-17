@@ -56,6 +56,13 @@
 </span>
 &nbsp;
 
+### <u> Mobile App Development Technologies & Tools: </u>
+<br>
+<span><img src="https://camo.githubusercontent.com/c30a17d34fecc874999240e59c1adf56ca0eeebb7d6a5bc0fddc0e7c8592869d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React Native logo" title="React Native" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo logo" title="Expo" height="25" /></span>
+&nbsp;
+
 ### <u> Version Control and Tools:</u>
 
 <br>
