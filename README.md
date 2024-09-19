@@ -60,7 +60,6 @@
 ### <u> Mobile App Development Technologies & Tools: </u>
 <br>
 <span></span><img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/> </span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo logo" title="Expo" height="25" /></span>
 &nbsp;
 
