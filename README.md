@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=777777&background=00000000&width=400&height=120&lines=++Welcome+To+My+GitHub!)](https://git.io/typing-svg)
 
 
-🚀 3rd Year Space Engineering Student at York University
+🚀 Space Engineering Student at York University
 
 <hr>
 
